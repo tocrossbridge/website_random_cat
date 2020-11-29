@@ -13,4 +13,4 @@ npm run serve
 
 #### Thank you for your support!
 
-<img src="src/assets/randomCats.png" />
+<img src="src/assets/overview.png" />

@@ -2,8 +2,8 @@
   <div class="row">
 
     <div class="col d-inline-block">
-      <input v-model="cats.newCat" placeholder="Escreva o nome de um gatinho aqui :D" />
-      <button v-on:click="addKitty" class="btn w-100">Adicionar gatinho</button>
+      <input v-model="cats.newCat" placeholder="Write the name of a kitty here :D" />
+      <button v-on:click="addKitty" class="btn w-100">Add a kitty</button>
   
       <ul>
         <li v-for="(cat, index) in cats.list" :key="index">{{ cat.name }}</li>
@@ -11,7 +11,7 @@
     </div>
 
     <div class="col d-inline-block">
-      <button @click.stop.prevent="getCats()" class="btn w-100">Clique para ver um gato</button>
+      <button @click.stop.prevent="getCats()" class="btn w-100">Click to see a cat</button>
       <div v-for="(cat, index) in cats.api" :key="index">
           <img :src="cat.url" alt="" class="cat-image"/>
       </div>
@@ -40,7 +40,7 @@ export default {
       },
       response: {
           status: "",
-          msg: "Ooops! Houve um erro, tente novamente mais tarde."
+          msg: "Ooops! There's was an error, try again later."
       }
     }
   },
