@@ -1,7 +1,7 @@
 # Random cats
 ## This project shows random cats
 
-Check the [STATUS OF THE PROJECT](#STATUS OF THE PROJECT)
+Check the [STATUS OF THE PROJECT](#STATUS-OF-THE-PROJECT)
 
 ## Project setup
 ```
