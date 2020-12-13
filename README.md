@@ -1,7 +1,7 @@
 # Random cats
 ## This project shows random cats
 
-[Markdown - Link](#Status)
+Check the [STATUS OF THE PROJECT](#STATUS OF THE PROJECT)
 
 ## Project setup
 ```
