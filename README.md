@@ -1,4 +1,4 @@
-# My README Template
+# Random Cat
 
 <b>Made with:</b><br/>
 Vue v2.6.12
@@ -12,7 +12,7 @@ This project shows random cats
 # Quick links &#128150;
 <div>
   
-[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [BACK TO TOP](#My-README-Template)
+[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [BACK TO TOP](#Random-Cat)
 
 <div>
 
@@ -41,6 +41,6 @@ It's working but needs improvements at the front-end ^-^
 
 <div>
   
-[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [BACK TO TOP](#My-README-Template)
+[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [BACK TO TOP](#Random-Cat)
 
 <div>
