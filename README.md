@@ -4,7 +4,7 @@ Vue v2.6.12
 <b>Description:</b><br/>
 This project shows random cats
 <br/><br/>
-<b>Check the [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &#128150;</b>
+<b>Check the [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now)! &#128150;</b>
 
 ## Project setup
 ```
