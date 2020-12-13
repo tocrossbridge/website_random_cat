@@ -1,8 +1,8 @@
 # Random cats
-Description:<br/>
+<b>Description:</b><br/>
 This project shows random cats
 <br/><br/>
-Check the [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now)
+<b>Check the [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now)</b>
 
 ## Project setup
 ```
