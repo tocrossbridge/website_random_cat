@@ -1,6 +1,6 @@
 # Random cats
 This project shows random cats
-Check the [STATUS OF THE PROJECT](#STATUS-OF-THE-PROJECT)
+Check the [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now?)
 
 ## Project setup
 ```
@@ -17,6 +17,7 @@ npm run serve
 <img src="src/assets/overview.png" />
 
 
-# STATUS OF THE PROJECT:
+# How is the development of the project right now?
+Last update: 13/12/2020
 
-It's working but needs improvements at front-end ^-^
+It's working but needs improvements at the front-end ^-^
