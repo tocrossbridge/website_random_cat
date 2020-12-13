@@ -1,6 +1,7 @@
 # Random cats
 <b>Made with:</b><br/>
 Vue v2.6.12
+<br/>
 <b>Description:</b><br/>
 This project shows random cats
 <br/><br/>
